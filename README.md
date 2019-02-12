@@ -1,19 +1,19 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *Tipsy*
 
-**Name of your app** is a tip calculator application for iOS.
+**Tipsy** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **ZIyi Ye**
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [✓ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
+* [ ✓] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I was stuck when adding a second screen to the app. I searched online for a long time to figure out how to create two screens and link them to each other.
 
 ## License
 
